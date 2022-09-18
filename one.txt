@@ -1,0 +1,2 @@
+This is the learing phase of git.
+
