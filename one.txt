@@ -2,5 +2,5 @@ This is the learing phase of git. We are learing about commit without stage.
 This sentence is written to see the branch and commit.
 This line is written to push change in github.
 
-
+I am Surendra Shrestha. Now i have completed git portion of w3school. From github i am creating branch and start editing one.txt file
 
