@@ -1,3 +1,6 @@
 This is the learing phase of git. We are learing about commit without stage.
 This sentence is written to see the branch and commit.
+This line is written to push change in github.
+
+
 
